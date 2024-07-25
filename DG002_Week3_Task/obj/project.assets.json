@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Decagon\\.nuget\\packages\\": {}
+    "C:\\Users\\gabin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\DG002_Week3_Task\\DG002_Week3_Task\\DG002_Week3_Task.csproj",
+      "projectUniqueName": "C:\\Users\\gabin\\Desktop\\dg002-week3-task-iyohagabin\\DG002_Week3_Task\\DG002_Week3_Task.csproj",
       "projectName": "DG002_Week3_Task",
-      "projectPath": "C:\\Users\\Decagon\\source\\repos\\DG002_Week3_Task\\DG002_Week3_Task\\DG002_Week3_Task.csproj",
-      "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Decagon\\source\\repos\\DG002_Week3_Task\\DG002_Week3_Task\\obj\\",
+      "projectPath": "C:\\Users\\gabin\\Desktop\\dg002-week3-task-iyohagabin\\DG002_Week3_Task\\DG002_Week3_Task.csproj",
+      "packagesPath": "C:\\Users\\gabin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabin\\Desktop\\dg002-week3-task-iyohagabin\\DG002_Week3_Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
