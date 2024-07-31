@@ -1,0 +1,15 @@
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\DG002_Week3_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\DG002_Week3_Task.AssemblyInfoInputs.cache
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\DG002_Week3_Task.AssemblyInfo.cs
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\DG002_Week3_Task.csproj.CoreCompileInputs.cache
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\DG002_Week3_Task.sourcelink.json
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\bin\Debug\net8.0\DG002_Week3_Task.exe
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\bin\Debug\net8.0\DG002_Week3_Task.deps.json
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\bin\Debug\net8.0\DG002_Week3_Task.runtimeconfig.json
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\bin\Debug\net8.0\DG002_Week3_Task.dll
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\bin\Debug\net8.0\DG002_Week3_Task.pdb
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\DG002_Week3_Task.dll
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\refint\DG002_Week3_Task.dll
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\DG002_Week3_Task.pdb
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\DG002_Week3_Task.genruntimeconfig.cache
+C:\Users\gabin\Desktop\dg002-net-dg002-week3-task-DG002_week3_Task\DG002_Week3_Task\obj\Debug\net8.0\ref\DG002_Week3_Task.dll

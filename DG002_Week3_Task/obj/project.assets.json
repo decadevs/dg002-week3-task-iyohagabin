@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabin\\Desktop\\dg002-week3-task-iyohagabin\\DG002_Week3_Task\\DG002_Week3_Task.csproj",
+      "projectUniqueName": "C:\\Users\\gabin\\Desktop\\dg002-net-dg002-week3-task-DG002_week3_Task\\DG002_Week3_Task\\DG002_Week3_Task.csproj",
       "projectName": "DG002_Week3_Task",
-      "projectPath": "C:\\Users\\gabin\\Desktop\\dg002-week3-task-iyohagabin\\DG002_Week3_Task\\DG002_Week3_Task.csproj",
+      "projectPath": "C:\\Users\\gabin\\Desktop\\dg002-net-dg002-week3-task-DG002_week3_Task\\DG002_Week3_Task\\DG002_Week3_Task.csproj",
       "packagesPath": "C:\\Users\\gabin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabin\\Desktop\\dg002-week3-task-iyohagabin\\DG002_Week3_Task\\obj\\",
+      "outputPath": "C:\\Users\\gabin\\Desktop\\dg002-net-dg002-week3-task-DG002_week3_Task\\DG002_Week3_Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabin\\AppData\\Roaming\\NuGet\\NuGet.Config",
